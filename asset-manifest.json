@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/st3new/static/css/main.e21e4b48.css",
+    "main.js": "/st3new/static/js/main.52764227.js",
+    "static/media/cake2.jpg": "/st3new/static/media/cake2.de6a464b33a93fd3f5ba.jpg",
+    "static/media/cheese-cake.jpg": "/st3new/static/media/cheese-cake.90892c6fe88aa657dd4e.jpg",
+    "static/media/onlineshopping.jpg": "/st3new/static/media/onlineshopping.acbbcf3351a934804b44.jpg",
+    "static/media/cake1.jpg": "/st3new/static/media/cake1.2d0003e71c0b83bc00d8.jpg",
+    "static/media/map.PNG": "/st3new/static/media/map.ca7e7e4a64913d824576.PNG",
+    "static/media/cake3.jpg": "/st3new/static/media/cake3.25de34fd2510554479ac.jpg",
+    "static/media/strawberry-cake.jpg": "/st3new/static/media/strawberry-cake.9af8382f3655a433b656.jpg",
+    "static/media/cake4.jpg": "/st3new/static/media/cake4.6521547cf4e143262891.jpg",
+    "static/media/recipes.PNG": "/st3new/static/media/recipes.accb1786e1dbec030a13.PNG",
+    "static/media/matcha-cake.jpg": "/st3new/static/media/matcha-cake.9d464853035e5b1353c3.jpg",
+    "static/media/cakemake.jpg": "/st3new/static/media/cakemake.a2bf76062aaf095745ad.jpg",
+    "static/media/logo.PNG": "/st3new/static/media/logo.7e0cf6264b30574fd1db.PNG",
+    "static/media/1of2.PNG": "/st3new/static/media/1of2.fea87fb516060f67db11.PNG",
+    "static/media/2of2.PNG": "/st3new/static/media/2of2.9e1b7623d2c40f0325b7.PNG",
+    "index.html": "/st3new/index.html",
+    "main.e21e4b48.css.map": "/st3new/static/css/main.e21e4b48.css.map",
+    "main.52764227.js.map": "/st3new/static/js/main.52764227.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e21e4b48.css",
+    "static/js/main.52764227.js"
+  ]
+}
